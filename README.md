@@ -1,2 +1,29 @@
-# currency-converter
-Responsive Currency Converter built with HTML, CSS, JavaScript, and Java API for real-time exchange rates.
+# Currency Converter
+
+A responsive **Currency Converter Web Application** built using **HTML, CSS, JavaScript**, and **JS API** for fetching real-time exchange rates. This project allows users to convert currencies quickly and accurately with an intuitive user interface.
+
+---
+
+##  Features
+- Real-time currency conversion using JavaScript API.
+- Simple and responsive UI for all devices.
+- Error handling for invalid inputs.
+- Support for multiple global currencies.
+- Lightweight and fast performance.
+
+---
+
+##  Technologies Used
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend/API:** Java API (for real-time exchange rates)
+- **Tools:** Fetch API, JSON parsing
+
+---
+
+##  Screenshots
+*(Add screenshots of your project here if possible)*
+
+---
+
+
+
