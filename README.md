@@ -21,9 +21,10 @@ A responsive **Currency Converter Web Application** built using **HTML, CSS, Jav
 ---
 
 ##  Screenshots
-*(Add screenshots of your project here if possible)*
+<img width="1918" height="1028" alt="currency_converter_INR_USD" src="https://github.com/user-attachments/assets/23ec66e3-4164-4689-b3c6-bc13537c39d0" />
 
 ---
+
 
 
 
